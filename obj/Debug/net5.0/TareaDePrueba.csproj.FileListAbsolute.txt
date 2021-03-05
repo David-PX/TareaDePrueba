@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.exe
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.deps.json
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.runtimeconfig.json
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.runtimeconfig.dev.json
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.dll
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\ref\TareaDePrueba.dll
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\bin\Debug\net5.0\TareaDePrueba.pdb
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.csprojAssemblyReference.cache
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.AssemblyInfo.cs
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.dll
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\ref\TareaDePrueba.dll
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.pdb
+C:\Users\David\Desktop\TareaDePrueba\TareaDePrueba\obj\Debug\net5.0\TareaDePrueba.genruntimeconfig.cache
