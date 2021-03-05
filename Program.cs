@@ -8,6 +8,8 @@ namespace TareaDePrueba
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Equipo Alpha");
+            Console.WriteLine("Equipo Alfa");
+            Console.WriteLine("Equipo Alf");
             Console.ReadKey();
         }
     }
